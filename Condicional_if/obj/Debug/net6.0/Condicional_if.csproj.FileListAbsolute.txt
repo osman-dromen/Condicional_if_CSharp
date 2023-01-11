@@ -1,0 +1,15 @@
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\bin\Debug\net6.0\Condicional_if.exe
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\bin\Debug\net6.0\Condicional_if.deps.json
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\bin\Debug\net6.0\Condicional_if.runtimeconfig.json
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\bin\Debug\net6.0\Condicional_if.dll
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\bin\Debug\net6.0\Condicional_if.pdb
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\obj\Debug\net6.0\Condicional_if.csproj.AssemblyReference.cache
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\obj\Debug\net6.0\Condicional_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\obj\Debug\net6.0\Condicional_if.AssemblyInfoInputs.cache
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\obj\Debug\net6.0\Condicional_if.AssemblyInfo.cs
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\obj\Debug\net6.0\Condicional_if.csproj.CoreCompileInputs.cache
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\obj\Debug\net6.0\Condicional_if.dll
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\obj\Debug\net6.0\refint\Condicional_if.dll
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\obj\Debug\net6.0\Condicional_if.pdb
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\obj\Debug\net6.0\Condicional_if.genruntimeconfig.cache
+C:\0. RESPALDOS\Curso C#\Condicional_if\Condicional_if\obj\Debug\net6.0\ref\Condicional_if.dll
