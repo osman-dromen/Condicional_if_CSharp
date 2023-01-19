@@ -64,8 +64,15 @@
             Console.WriteLine("Vuelve en septiembre");
         }
 
+        Console.WriteLine("Ejemplo de else-if");
 
+        Console.WriteLine("Introduce tu edad");
+        edad = int.Parse(Console.ReadLine());
 
+        if (edad < 18) Console.WriteLine("Eres un niño");
+        else if (edad < 30) Console.WriteLine("Eres un joven");
+        else if (edad < 60) Console.WriteLine("Eres maduro");
+        else Console.WriteLine("Debes cuidarte");
 
     }
 }
